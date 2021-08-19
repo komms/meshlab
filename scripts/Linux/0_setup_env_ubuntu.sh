@@ -4,7 +4,7 @@
 #
 # Run this script if you never installed any of the MeshLab dependencies.
 
-sudo apt-get update
-sudo apt-get install -y qt5-default qttools5-dev-tools qtdeclarative5-dev
-sudo apt-get install -y mesa-common-dev libglu1-mesa-dev
-sudo apt-get install -y libgmp-dev libcgal-dev libboost-all-dev patchelf cmake
+apt-get update
+apt-get install -y qt5-default qttools5-dev-tools qtdeclarative5-dev
+apt-get install -y mesa-common-dev libglu1-mesa-dev
+apt-get install -y libgmp-dev libcgal-dev libboost-all-dev patchelf cmake
